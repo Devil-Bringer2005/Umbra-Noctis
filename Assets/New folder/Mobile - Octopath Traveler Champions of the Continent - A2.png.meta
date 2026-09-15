@@ -1,0 +1,4131 @@
+fileFormatVersion: 2
+guid: 3bbf95a9bef38d544b5a6af5fc9a89f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 924
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de87b88cd8d3a248a5ef7b248aeb60d
+      internalID: 1517647758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 924
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6476ff0b95c4a4da0d00c9cb6d46b7
+      internalID: -585395667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 924
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11665b5238e84c4788d04e481e45d77
+      internalID: 2010871007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 924
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44360823bac36824fad945693884b7d5
+      internalID: 965312719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 924
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2fb0c0b6dc10a46b5173d94200a02d
+      internalID: -121261866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 924
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8b0ac4a40425d4cab16fa8923ca260
+      internalID: -174801923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 924
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006182313f3f826449a9a871fb34e048
+      internalID: -629963432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 924
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0158492192ac44786adb55a8fed8fb
+      internalID: 1896858150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 924
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d31a41dc386b642811b5059389ecdd
+      internalID: 2134223536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 924
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5860856758c584fbabbdc8f861088f
+      internalID: -48576543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 880
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13213b39c3bc08d4a8e3ccbeb217e2ea
+      internalID: -2033293648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 880
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28ad776e68967e4c9950077ef22f629
+      internalID: 1888080847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 881
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95708cd2b31a0ec478a42f5166ecbb4e
+      internalID: -839142965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 881
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6a70bb121fbed48a3967004f09c492
+      internalID: 1953226521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_14
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 880
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f9c0d2814c257448924c66d0e82178
+      internalID: -2145601274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 881
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3438f539c8ea9694da6fd6de05a2bdd6
+      internalID: 1535039242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 881
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e42c2ef98d50c246b1f2edacecd40d6
+      internalID: 111977733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_17
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 880
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffebac8c13d069145bd933557bd54f70
+      internalID: -1892530156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_18
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 881
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46759ff3c956a7f4db6ca9f1879466be
+      internalID: 904060841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 881
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae650fa8bf384664a9e8ff5f2cf8bd65
+      internalID: 329866641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 836
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab7fd1e9d207e9468ca9e147b9750d9
+      internalID: -649697115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 837
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd8c026a7f051447b57ac71e3496b3d
+      internalID: -1512277569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 837
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25da97a0a675ca48ac371295b1a4f31
+      internalID: 344850906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 836
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a3a7bed9770bb45b6dbee61e9e559a
+      internalID: -811837845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 836
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb0870fb96e12d48a1149e1ca93fe64
+      internalID: 644079089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 836
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700f26497baff3547bf582b9055a8c2c
+      internalID: -1187792993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 837
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5a423145818f949ab66bee802e990d
+      internalID: 1623608275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 837
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bea8cd0819870e4fa673ac141588b33
+      internalID: -893212139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_28
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 837
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad5c1fc73345dc478a7112eab790ed9
+      internalID: -1540242734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 836
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67c80a5c955fe44988da3752e3ac9d7
+      internalID: -90288147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 792
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03abcb25db373646ae17aff8551da44
+      internalID: -1412120271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 792
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e7fc576b363ea45a65f4726ff42528
+      internalID: 1702598667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 792
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92863d14eff90d341a9d14d741f7d9f5
+      internalID: 1644155874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_33
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 792
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf09686da0319f40bd8dab11ac46bf9
+      internalID: -1280462043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_34
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 792
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2104c8271dfd7cd4695ca0fa1c789cd1
+      internalID: -1261163372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_35
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 793
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5043d23d4b3ce0e4d8c6bdf93e03e312
+      internalID: 506680111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 792
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff018c5de4bc27e4db64c9342a6099b3
+      internalID: 336066934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_37
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 792
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25862d330e3a82f47a3fdcd23c91072a
+      internalID: 625873122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_38
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 793
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0708559472a5140a5687bf1eeb1a3a
+      internalID: -568001624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_39
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 792
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fff93e7b522c59458c39774e9b166e6
+      internalID: 824503804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 748
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2070f1599613954cad56044155910ef
+      internalID: -1219772841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_41
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 748
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db80e1b55e0811547865d9acb07b6cc0
+      internalID: -2100679100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_42
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 748
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2991f661394bdb04785451eb0af1f7b3
+      internalID: 709859482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 748
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571d8d93a09997a49b0be2759dabb7c3
+      internalID: -1025075049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_44
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 748
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c64a846711e2b24e8a733b2a411c8ff
+      internalID: -528521952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_45
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 748
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cea454cc1b232418eb0afbe8f8aa7c
+      internalID: -474606979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_46
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 748
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732dbd066e402bb4f86a650b7a93a153
+      internalID: -10451543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_47
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 748
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7337afaa63be03469604bcfb4f49e67
+      internalID: 895827293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 748
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f08b087e51935b46bec1457bb5b2453
+      internalID: 623101723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_49
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 748
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aace248ee67ea418c6182ccb70fdee
+      internalID: 68069287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 704
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fd1235b5093bc42a17ba3a60f25a1d
+      internalID: 128071276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 704
+        width: 32
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010ea2cf1b6f76043a19f5da99a94f0e
+      internalID: 1497031407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_52
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 704
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affb69e0f0d2d614287f48874ac8b4e8
+      internalID: 1813367803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_53
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 704
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c17a419da961a488abb688e24a07e8
+      internalID: 638580996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_54
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 704
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dced68e6be787b4d8653934d1f1b3cc
+      internalID: -314882887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_55
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 704
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672d82eca696c9c44bcd571a90d1a039
+      internalID: -1611102855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_56
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 704
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936d93de34ff4db42aa2aa072eed1ec6
+      internalID: -417716162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 704
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e13e701a2957ed41b074fca13b870fc
+      internalID: 1546832491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_58
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 704
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9445b30cba87c3469a8bb1b70e9c2c3
+      internalID: -1466466615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_59
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 704
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa31132610a6c144a2fd39ec9aba646
+      internalID: 559152249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 661
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45062b610aec7de4fbef0c21c90d1c4e
+      internalID: 1871026483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 660
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a1eb31d1e10dd46848dbd12b5e73ae
+      internalID: 968499458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 660
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa813395ca106140b2a0ddea75077db
+      internalID: -1657799565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_63
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 660
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed555b8500ace364ca67a5dfcfe472fa
+      internalID: -1940473018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_64
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 660
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4b47b9ad6f0354280634b87e112303
+      internalID: 1563147514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_65
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 660
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac246dab755ee3749a5ba4221bb2d487
+      internalID: 341356137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_66
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 660
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ae72dc4bb4e7a4193e0e82ca47dcc6
+      internalID: 1920336619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_67
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 661
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adb124d723f1e548838098677cc2838
+      internalID: -1897014667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_68
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 668
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c43e3e58aa4c8549a043882f90f6b24
+      internalID: 1050032019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_69
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 660
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bf9c965ad57c6418b6511c5a5d37cd
+      internalID: 1973800360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_70
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 616
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbcc2a330bad6549acf0de7fe012ea2
+      internalID: 1627084962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_71
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 616
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ef779a03e1b6e4398937c8f22dcc51
+      internalID: 1778216665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_72
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 616
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca304a8fc614b040b7e0e2f3532d8f4
+      internalID: -1999426224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_73
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 616
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d097785babc0690429fbee12dfd73a1d
+      internalID: 711800412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_74
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 616
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de19e3cd0cebdfc43af036063caef4d4
+      internalID: -110565795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_75
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 616
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf357e5bcc493347b2790675802c8a6
+      internalID: 759335735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_76
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 616
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b52e51d26baf6843996f2eb2782a9df
+      internalID: 846709953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_77
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 616
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea213fe426441a42b0a68dae719d42f
+      internalID: -414518748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_78
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 616
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d15be961045b644db50357c6aafcb64
+      internalID: -1023292589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_79
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 616
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ff1e51d36b0fc49988b50a0f0d5d89
+      internalID: -604892698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_80
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 572
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed15d268cee6bc42ae71f94feecc11d
+      internalID: 1095201416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_81
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 573
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7675d328fe65a46af57d17761b8d71
+      internalID: 1267773672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_82
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 573
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1da728b4efbca47a01595539e05e80
+      internalID: 1537435255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_83
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 572
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424a12b2e9e358c44ade7e85bd29d9e9
+      internalID: 1010140917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_84
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 573
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371b876e929960740ae60654805c944d
+      internalID: -2044161274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_85
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 573
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4abda9e818f706479a154acac4547a5
+      internalID: -1406241141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_86
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 572
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2468e85a47ed1a540bbe7fa953b985c8
+      internalID: -346839653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_87
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 573
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164efdb291e893044a09056828319864
+      internalID: -1271882302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_88
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 573
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78742a800f0723a45b0dcc50ea788957
+      internalID: 1815791740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_89
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 572
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d267995344495499c9dd334533b725
+      internalID: -201515396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_90
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 529
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67768c129a713f346803452ade91fecc
+      internalID: -185776924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_91
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 529
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192832d375f6d6148a134e21b7f3d8cb
+      internalID: 729176793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_92
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 528
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f3f187c973d944393d97f9eea29332
+      internalID: -536358195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29c3605707101846ba72c20529521b3
+      internalID: 944553731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_94
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 528
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b097c21d1ca41d14ea7604c9113c9766
+      internalID: -232846871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_95
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 529
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b08184460c24cf438c05cd50bd10885
+      internalID: 1603192274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_96
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 529
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c4e2b3d5200cd4db3da1d4d1f4d1d8
+      internalID: 1041230208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_97
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 529
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf78f444476caa419f3fcfe452252ef
+      internalID: 1623306972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_98
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 528
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399656d15d797634cb4aa409482bf71e
+      internalID: 525865674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_99
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 528
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882a9cd27ce75bf4492d1e8051ac7d88
+      internalID: -477515106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_100
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 484
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5f3177bbc37de469a1d22598c54d8a
+      internalID: -278128110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_101
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 484
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ae180b836cef045af51cae78b2fbfd
+      internalID: 1223715857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_102
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 484
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e9956928d322b4f98a9cc9f8c94db6
+      internalID: 2112737083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_103
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 484
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed3fad5c75e06a45973b141d8414eb6
+      internalID: -1163464701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_104
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 485
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02adca3c79a585b4a8b9f59a06b35337
+      internalID: -974257363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_105
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 484
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bff57bbd5d3004b81159c039c669c7
+      internalID: -1413839644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_106
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 484
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4f20d4b48f2384db24e328f2ab5603
+      internalID: 487045846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_107
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 485
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c4c3bf79d680848b1417d8d5228a0f
+      internalID: -1685607967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_108
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 484
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f6178416b03a347b918ab98b1939bb
+      internalID: -1694609033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_109
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 484
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66362ffb5c81bf46b59d7d5d550be86
+      internalID: 944469172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_110
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 440
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c13fb28a50dead4eaca222fd48ca917
+      internalID: -689202682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_111
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 440
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b4deb4bb514bc4b89f0c328d4de43e
+      internalID: -875776282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_112
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 440
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9147f505dd2ae842a890536f89f41ed
+      internalID: 2119583902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_113
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 440
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ea1f4e46a7ab2459c7b591703193a4
+      internalID: -252495404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_114
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 440
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a96a02014f1e984a993baf82126d668
+      internalID: 1367520115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_115
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 440
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5617747d71d94ea4e874fc7fcbebf513
+      internalID: -64718004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_116
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 440
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe67a63c3086d1241bed341d180755c8
+      internalID: 2073986652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_117
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 440
+        width: 32
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153ff01b5c3cc194fa1c79601e41d241
+      internalID: 788923274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_118
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 440
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b2b5b32431e12459b444f83d941307
+      internalID: -954675246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_119
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 440
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b720d6ac4b6dcdc43bf223b965f6bd0d
+      internalID: -1991736102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 396
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376bf46d9ae650c439ac2be5167b2365
+      internalID: 618987792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_121
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 397
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f580a6184ba7f4fa5c7926871e73e0
+      internalID: 2097794630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_122
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 396
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba105781e6ae1394eb95f8286879e723
+      internalID: 2131071185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_123
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 396
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff1eaa314d23c94abc52572b79986f1
+      internalID: 1111469189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_124
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 396
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a0aea91262cf54b8b0ab58a0e9b27f
+      internalID: -2137696940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_125
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 396
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3f277e028974440ac8ed038657d22e
+      internalID: 1352835470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_126
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 404
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3f725c24f6aed4f9ba525ee422d876
+      internalID: 822385431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_127
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 404
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfc02156e160e348bf60799ec8d17b6
+      internalID: -2075135840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_128
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 404
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad00195a16bc2b3419517377d9d457dd
+      internalID: 424730771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_129
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 404
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb291a5eb51e40b448bd868abc0fc1f8
+      internalID: -1527991973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_130
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 352
+        width: 26
+        height: 34
+      alignment: 9
+      pivot: {x: 0.3817777, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ed1d3738ff84b4fae208e2b8dd51a8
+      internalID: 1790917525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_131
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 352
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.29656687, y: 0.009435838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e800ba6ae0969844bac999a8ac3793e8
+      internalID: -1471257955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_132
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 352
+        width: 51
+        height: 29
+      alignment: 9
+      pivot: {x: 0.8149022, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54efab508d84d1d4db60e5a0d3ac4eb3
+      internalID: -1920464923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_133
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 361
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99c9311237c1cc4caceab24fd8fc04c
+      internalID: -1036589096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_134
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 352
+        width: 38
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7623235, y: -0.010256167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbeb5d8464a84a40a6599a0521a276b
+      internalID: -606436318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_135
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 352
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.7942028, y: -0.0053241435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3570ae32b212b0241949c80288672d99
+      internalID: 1370421841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_136
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 308
+        width: 27
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f02df38186a4847b326517805a10c8
+      internalID: 1323432300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_137
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 308
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22436de4a1e0f7d4c9df186424c6c8ed
+      internalID: 570932942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_138
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 308
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461520d7036791b4f8181f77d34fcf05
+      internalID: 1030405410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_139
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 308
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c830d0d7184fa9445bd641566426bfd9
+      internalID: -276378598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_140
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 316
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9a41be73cbe0940b5a719c607eafa2
+      internalID: 1574693586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_141
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 264
+        width: 35
+        height: 30
+      alignment: 9
+      pivot: {x: 0.24691065, y: -0.008435058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb393d34587d8554ab9f85e6e7812567
+      internalID: -978594870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_142
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 264
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.2159361, y: -0.0052048257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e48b9390140df342bf6cbd4767132dd
+      internalID: -2056969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_143
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 264
+        width: 33
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4131132, y: -0.0000008477105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c7b7e6ea08e554f966cf3fcff593ed
+      internalID: 1249148236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_144
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 264
+        width: 33
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45884287, y: 0.00773738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da025cce6aeff047872d1d2b32d6f9b
+      internalID: -711305364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_145
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 264
+        width: 39
+        height: 37
+      alignment: 9
+      pivot: {x: 0.7668457, y: -0.0040802825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb655f0213af3414fbea68ab5b2bac32
+      internalID: -1049986767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_146
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 38
+        height: 26
+      alignment: 9
+      pivot: {x: 0.76877314, y: -0.002438472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fddd702f8262a4baf0c5ed85717697
+      internalID: 2055038393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_147
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 220
+        width: 39
+        height: 27
+      alignment: 9
+      pivot: {x: 0.76350814, y: 0.0000011302807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630e1ac78780b5342b760aea5d4826a1
+      internalID: -2032897959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_148
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 221
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.74831027, y: 0.006168111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50263d8754a0f9f4a97706ba9caed7c0
+      internalID: -1398412897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_149
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 220
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82cf1379495a274184702b5a978da61
+      internalID: 1416439641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_150
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 176
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9903eda0e2257479cc80c1e8a2a22b
+      internalID: -844203418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_151
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 176
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bb2b82e4b0903498d4daf7ac6383e8
+      internalID: 1906430641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_152
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 176
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e8699422b8786498b261384e0d7d18
+      internalID: 788162807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_153
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 176
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3478583549a6d3b4bbe99081f6bb979e
+      internalID: -1768588653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_154
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 176
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6824da00881b449b3e3212f5bcdaf3
+      internalID: -431824101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_155
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 176
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffee5425644851647b46ffe365a38e65
+      internalID: -336723816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_156
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 176
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0305d35a1592034abd071ada739e493
+      internalID: -442441676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_157
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 176
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20603e5ed7210d04892feb26fb5f1ea9
+      internalID: -525078536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_158
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 176
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8237011c9698bd5469ab778625f8cd63
+      internalID: 1685082733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_159
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 176
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2de5784e0dc1a3439a732e40163b525
+      internalID: -1074950280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_160
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 132
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4199fa4c761d97a48b803d4bce6434fa
+      internalID: -209912481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_161
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 132
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624ae2288aa38464dbf68d386ff7116c
+      internalID: -205799967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_162
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 132
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f3e31aecb5e9940b7bdf9f1f49451b
+      internalID: -1408629446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_163
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 132
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb66b028c86bd6499a4d93c0feb782e
+      internalID: 1241712341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_164
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 132
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6de3619d125554794390416966ff28
+      internalID: 1908872641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_165
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 132
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ef04f3f19a7dd46a6aad1554467a7e
+      internalID: -1816583831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_166
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 132
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e7b3f12c174be4193d030bd3cdd771
+      internalID: -1367742940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_167
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 132
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72cff895eebde64daac2df96359112e
+      internalID: -1979163852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_168
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 140
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3dccaf40ea6a348abfdbf788f9da0c
+      internalID: 1801384255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_169
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 140
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f1709672de14941ad2e3c9bdb36c92
+      internalID: 1497999599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_170
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 88
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.51566297, y: 0.051406145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0de7480a8a7f741a4573cec5297aae
+      internalID: 944907512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_171
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 88
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.58569676, y: 0.048481297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e0d9812a61fe848a7511162e9949a9
+      internalID: -2062937727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_172
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 88
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.59067625, y: 0.038594775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbea9b93202c3a346939358e60e04ae1
+      internalID: -884068826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_173
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 88
+        width: 24
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6203537, y: 0.03961012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbc888c6d0768b4997ea78dc5363150
+      internalID: -1961809161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_174
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 88
+        width: 41
+        height: 34
+      alignment: 9
+      pivot: {x: 0.77823544, y: 0.04731728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d6e603ad37bce49855018e0a6fa2fe
+      internalID: 1719830601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_175
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 44
+        width: 42
+        height: 32
+      alignment: 9
+      pivot: {x: 0.78379303, y: 0.07446182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd25416789f32924f9c88b6cb0dee924
+      internalID: 907195291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_176
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 44
+        width: 42
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7832609, y: 0.055198908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82be577870c8b9a4fbcd4d0a73543fb9
+      internalID: 1267563515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_177
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 44
+        width: 42
+        height: 32
+      alignment: 9
+      pivot: {x: 0.78078717, y: 0.058445096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7051f14fc93e58948a8075c8274b303b
+      internalID: -800849947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_178
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 44
+        width: 42
+        height: 32
+      alignment: 9
+      pivot: {x: 0.78573465, y: 0.058445096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cceff83419e8254499bc3ce18bd545bb
+      internalID: -1272550904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_179
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 44
+        width: 42
+        height: 32
+      alignment: 9
+      pivot: {x: 0.78202385, y: 0.06006825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8c0fbe630004449808f6d2fed650ec
+      internalID: -1937747661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_180
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55017036, y: 0.052461702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d49959ded7268c40a98999625f79e3c
+      internalID: -977108456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - A2_181
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 18
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4890213, y: 0.05711897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a17aa4cdb7e9914ca59d492a14ff54e
+      internalID: 232089372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Octopath Traveler Champions of the Continent - A2_0: 1517647758
+      Mobile - Octopath Traveler Champions of the Continent - A2_1: -585395667
+      Mobile - Octopath Traveler Champions of the Continent - A2_10: -2033293648
+      Mobile - Octopath Traveler Champions of the Continent - A2_100: -278128110
+      Mobile - Octopath Traveler Champions of the Continent - A2_101: 1223715857
+      Mobile - Octopath Traveler Champions of the Continent - A2_102: 2112737083
+      Mobile - Octopath Traveler Champions of the Continent - A2_103: -1163464701
+      Mobile - Octopath Traveler Champions of the Continent - A2_104: -974257363
+      Mobile - Octopath Traveler Champions of the Continent - A2_105: -1413839644
+      Mobile - Octopath Traveler Champions of the Continent - A2_106: 487045846
+      Mobile - Octopath Traveler Champions of the Continent - A2_107: -1685607967
+      Mobile - Octopath Traveler Champions of the Continent - A2_108: -1694609033
+      Mobile - Octopath Traveler Champions of the Continent - A2_109: 944469172
+      Mobile - Octopath Traveler Champions of the Continent - A2_11: 1888080847
+      Mobile - Octopath Traveler Champions of the Continent - A2_110: -689202682
+      Mobile - Octopath Traveler Champions of the Continent - A2_111: -875776282
+      Mobile - Octopath Traveler Champions of the Continent - A2_112: 2119583902
+      Mobile - Octopath Traveler Champions of the Continent - A2_113: -252495404
+      Mobile - Octopath Traveler Champions of the Continent - A2_114: 1367520115
+      Mobile - Octopath Traveler Champions of the Continent - A2_115: -64718004
+      Mobile - Octopath Traveler Champions of the Continent - A2_116: 2073986652
+      Mobile - Octopath Traveler Champions of the Continent - A2_117: 788923274
+      Mobile - Octopath Traveler Champions of the Continent - A2_118: -954675246
+      Mobile - Octopath Traveler Champions of the Continent - A2_119: -1991736102
+      Mobile - Octopath Traveler Champions of the Continent - A2_12: -839142965
+      Mobile - Octopath Traveler Champions of the Continent - A2_120: 618987792
+      Mobile - Octopath Traveler Champions of the Continent - A2_121: 2097794630
+      Mobile - Octopath Traveler Champions of the Continent - A2_122: 2131071185
+      Mobile - Octopath Traveler Champions of the Continent - A2_123: 1111469189
+      Mobile - Octopath Traveler Champions of the Continent - A2_124: -2137696940
+      Mobile - Octopath Traveler Champions of the Continent - A2_125: 1352835470
+      Mobile - Octopath Traveler Champions of the Continent - A2_126: 822385431
+      Mobile - Octopath Traveler Champions of the Continent - A2_127: -2075135840
+      Mobile - Octopath Traveler Champions of the Continent - A2_128: 424730771
+      Mobile - Octopath Traveler Champions of the Continent - A2_129: -1527991973
+      Mobile - Octopath Traveler Champions of the Continent - A2_13: 1953226521
+      Mobile - Octopath Traveler Champions of the Continent - A2_130: 1790917525
+      Mobile - Octopath Traveler Champions of the Continent - A2_131: -1471257955
+      Mobile - Octopath Traveler Champions of the Continent - A2_132: -1920464923
+      Mobile - Octopath Traveler Champions of the Continent - A2_133: -1036589096
+      Mobile - Octopath Traveler Champions of the Continent - A2_134: -606436318
+      Mobile - Octopath Traveler Champions of the Continent - A2_135: 1370421841
+      Mobile - Octopath Traveler Champions of the Continent - A2_136: 1323432300
+      Mobile - Octopath Traveler Champions of the Continent - A2_137: 570932942
+      Mobile - Octopath Traveler Champions of the Continent - A2_138: 1030405410
+      Mobile - Octopath Traveler Champions of the Continent - A2_139: -276378598
+      Mobile - Octopath Traveler Champions of the Continent - A2_14: -2145601274
+      Mobile - Octopath Traveler Champions of the Continent - A2_140: 1574693586
+      Mobile - Octopath Traveler Champions of the Continent - A2_141: -978594870
+      Mobile - Octopath Traveler Champions of the Continent - A2_142: -2056969
+      Mobile - Octopath Traveler Champions of the Continent - A2_143: 1249148236
+      Mobile - Octopath Traveler Champions of the Continent - A2_144: -711305364
+      Mobile - Octopath Traveler Champions of the Continent - A2_145: -1049986767
+      Mobile - Octopath Traveler Champions of the Continent - A2_146: 2055038393
+      Mobile - Octopath Traveler Champions of the Continent - A2_147: -2032897959
+      Mobile - Octopath Traveler Champions of the Continent - A2_148: -1398412897
+      Mobile - Octopath Traveler Champions of the Continent - A2_149: 1416439641
+      Mobile - Octopath Traveler Champions of the Continent - A2_15: 1535039242
+      Mobile - Octopath Traveler Champions of the Continent - A2_150: -844203418
+      Mobile - Octopath Traveler Champions of the Continent - A2_151: 1906430641
+      Mobile - Octopath Traveler Champions of the Continent - A2_152: 788162807
+      Mobile - Octopath Traveler Champions of the Continent - A2_153: -1768588653
+      Mobile - Octopath Traveler Champions of the Continent - A2_154: -431824101
+      Mobile - Octopath Traveler Champions of the Continent - A2_155: -336723816
+      Mobile - Octopath Traveler Champions of the Continent - A2_156: -442441676
+      Mobile - Octopath Traveler Champions of the Continent - A2_157: -525078536
+      Mobile - Octopath Traveler Champions of the Continent - A2_158: 1685082733
+      Mobile - Octopath Traveler Champions of the Continent - A2_159: -1074950280
+      Mobile - Octopath Traveler Champions of the Continent - A2_16: 111977733
+      Mobile - Octopath Traveler Champions of the Continent - A2_160: -209912481
+      Mobile - Octopath Traveler Champions of the Continent - A2_161: -205799967
+      Mobile - Octopath Traveler Champions of the Continent - A2_162: -1408629446
+      Mobile - Octopath Traveler Champions of the Continent - A2_163: 1241712341
+      Mobile - Octopath Traveler Champions of the Continent - A2_164: 1908872641
+      Mobile - Octopath Traveler Champions of the Continent - A2_165: -1816583831
+      Mobile - Octopath Traveler Champions of the Continent - A2_166: -1367742940
+      Mobile - Octopath Traveler Champions of the Continent - A2_167: -1979163852
+      Mobile - Octopath Traveler Champions of the Continent - A2_168: 1801384255
+      Mobile - Octopath Traveler Champions of the Continent - A2_169: 1497999599
+      Mobile - Octopath Traveler Champions of the Continent - A2_17: -1892530156
+      Mobile - Octopath Traveler Champions of the Continent - A2_170: 944907512
+      Mobile - Octopath Traveler Champions of the Continent - A2_171: -2062937727
+      Mobile - Octopath Traveler Champions of the Continent - A2_172: -884068826
+      Mobile - Octopath Traveler Champions of the Continent - A2_173: -1961809161
+      Mobile - Octopath Traveler Champions of the Continent - A2_174: 1719830601
+      Mobile - Octopath Traveler Champions of the Continent - A2_175: 907195291
+      Mobile - Octopath Traveler Champions of the Continent - A2_176: 1267563515
+      Mobile - Octopath Traveler Champions of the Continent - A2_177: -800849947
+      Mobile - Octopath Traveler Champions of the Continent - A2_178: -1272550904
+      Mobile - Octopath Traveler Champions of the Continent - A2_179: -1937747661
+      Mobile - Octopath Traveler Champions of the Continent - A2_18: 904060841
+      Mobile - Octopath Traveler Champions of the Continent - A2_180: -977108456
+      Mobile - Octopath Traveler Champions of the Continent - A2_181: 232089372
+      Mobile - Octopath Traveler Champions of the Continent - A2_19: 329866641
+      Mobile - Octopath Traveler Champions of the Continent - A2_2: 2010871007
+      Mobile - Octopath Traveler Champions of the Continent - A2_20: -649697115
+      Mobile - Octopath Traveler Champions of the Continent - A2_21: -1512277569
+      Mobile - Octopath Traveler Champions of the Continent - A2_22: 344850906
+      Mobile - Octopath Traveler Champions of the Continent - A2_23: -811837845
+      Mobile - Octopath Traveler Champions of the Continent - A2_24: 644079089
+      Mobile - Octopath Traveler Champions of the Continent - A2_25: -1187792993
+      Mobile - Octopath Traveler Champions of the Continent - A2_26: 1623608275
+      Mobile - Octopath Traveler Champions of the Continent - A2_27: -893212139
+      Mobile - Octopath Traveler Champions of the Continent - A2_28: -1540242734
+      Mobile - Octopath Traveler Champions of the Continent - A2_29: -90288147
+      Mobile - Octopath Traveler Champions of the Continent - A2_3: 965312719
+      Mobile - Octopath Traveler Champions of the Continent - A2_30: -1412120271
+      Mobile - Octopath Traveler Champions of the Continent - A2_31: 1702598667
+      Mobile - Octopath Traveler Champions of the Continent - A2_32: 1644155874
+      Mobile - Octopath Traveler Champions of the Continent - A2_33: -1280462043
+      Mobile - Octopath Traveler Champions of the Continent - A2_34: -1261163372
+      Mobile - Octopath Traveler Champions of the Continent - A2_35: 506680111
+      Mobile - Octopath Traveler Champions of the Continent - A2_36: 336066934
+      Mobile - Octopath Traveler Champions of the Continent - A2_37: 625873122
+      Mobile - Octopath Traveler Champions of the Continent - A2_38: -568001624
+      Mobile - Octopath Traveler Champions of the Continent - A2_39: 824503804
+      Mobile - Octopath Traveler Champions of the Continent - A2_4: -121261866
+      Mobile - Octopath Traveler Champions of the Continent - A2_40: -1219772841
+      Mobile - Octopath Traveler Champions of the Continent - A2_41: -2100679100
+      Mobile - Octopath Traveler Champions of the Continent - A2_42: 709859482
+      Mobile - Octopath Traveler Champions of the Continent - A2_43: -1025075049
+      Mobile - Octopath Traveler Champions of the Continent - A2_44: -528521952
+      Mobile - Octopath Traveler Champions of the Continent - A2_45: -474606979
+      Mobile - Octopath Traveler Champions of the Continent - A2_46: -10451543
+      Mobile - Octopath Traveler Champions of the Continent - A2_47: 895827293
+      Mobile - Octopath Traveler Champions of the Continent - A2_48: 623101723
+      Mobile - Octopath Traveler Champions of the Continent - A2_49: 68069287
+      Mobile - Octopath Traveler Champions of the Continent - A2_5: -174801923
+      Mobile - Octopath Traveler Champions of the Continent - A2_50: 128071276
+      Mobile - Octopath Traveler Champions of the Continent - A2_51: 1497031407
+      Mobile - Octopath Traveler Champions of the Continent - A2_52: 1813367803
+      Mobile - Octopath Traveler Champions of the Continent - A2_53: 638580996
+      Mobile - Octopath Traveler Champions of the Continent - A2_54: -314882887
+      Mobile - Octopath Traveler Champions of the Continent - A2_55: -1611102855
+      Mobile - Octopath Traveler Champions of the Continent - A2_56: -417716162
+      Mobile - Octopath Traveler Champions of the Continent - A2_57: 1546832491
+      Mobile - Octopath Traveler Champions of the Continent - A2_58: -1466466615
+      Mobile - Octopath Traveler Champions of the Continent - A2_59: 559152249
+      Mobile - Octopath Traveler Champions of the Continent - A2_6: -629963432
+      Mobile - Octopath Traveler Champions of the Continent - A2_60: 1871026483
+      Mobile - Octopath Traveler Champions of the Continent - A2_61: 968499458
+      Mobile - Octopath Traveler Champions of the Continent - A2_62: -1657799565
+      Mobile - Octopath Traveler Champions of the Continent - A2_63: -1940473018
+      Mobile - Octopath Traveler Champions of the Continent - A2_64: 1563147514
+      Mobile - Octopath Traveler Champions of the Continent - A2_65: 341356137
+      Mobile - Octopath Traveler Champions of the Continent - A2_66: 1920336619
+      Mobile - Octopath Traveler Champions of the Continent - A2_67: -1897014667
+      Mobile - Octopath Traveler Champions of the Continent - A2_68: 1050032019
+      Mobile - Octopath Traveler Champions of the Continent - A2_69: 1973800360
+      Mobile - Octopath Traveler Champions of the Continent - A2_7: 1896858150
+      Mobile - Octopath Traveler Champions of the Continent - A2_70: 1627084962
+      Mobile - Octopath Traveler Champions of the Continent - A2_71: 1778216665
+      Mobile - Octopath Traveler Champions of the Continent - A2_72: -1999426224
+      Mobile - Octopath Traveler Champions of the Continent - A2_73: 711800412
+      Mobile - Octopath Traveler Champions of the Continent - A2_74: -110565795
+      Mobile - Octopath Traveler Champions of the Continent - A2_75: 759335735
+      Mobile - Octopath Traveler Champions of the Continent - A2_76: 846709953
+      Mobile - Octopath Traveler Champions of the Continent - A2_77: -414518748
+      Mobile - Octopath Traveler Champions of the Continent - A2_78: -1023292589
+      Mobile - Octopath Traveler Champions of the Continent - A2_79: -604892698
+      Mobile - Octopath Traveler Champions of the Continent - A2_8: 2134223536
+      Mobile - Octopath Traveler Champions of the Continent - A2_80: 1095201416
+      Mobile - Octopath Traveler Champions of the Continent - A2_81: 1267773672
+      Mobile - Octopath Traveler Champions of the Continent - A2_82: 1537435255
+      Mobile - Octopath Traveler Champions of the Continent - A2_83: 1010140917
+      Mobile - Octopath Traveler Champions of the Continent - A2_84: -2044161274
+      Mobile - Octopath Traveler Champions of the Continent - A2_85: -1406241141
+      Mobile - Octopath Traveler Champions of the Continent - A2_86: -346839653
+      Mobile - Octopath Traveler Champions of the Continent - A2_87: -1271882302
+      Mobile - Octopath Traveler Champions of the Continent - A2_88: 1815791740
+      Mobile - Octopath Traveler Champions of the Continent - A2_89: -201515396
+      Mobile - Octopath Traveler Champions of the Continent - A2_9: -48576543
+      Mobile - Octopath Traveler Champions of the Continent - A2_90: -185776924
+      Mobile - Octopath Traveler Champions of the Continent - A2_91: 729176793
+      Mobile - Octopath Traveler Champions of the Continent - A2_92: -536358195
+      Mobile - Octopath Traveler Champions of the Continent - A2_93: 944553731
+      Mobile - Octopath Traveler Champions of the Continent - A2_94: -232846871
+      Mobile - Octopath Traveler Champions of the Continent - A2_95: 1603192274
+      Mobile - Octopath Traveler Champions of the Continent - A2_96: 1041230208
+      Mobile - Octopath Traveler Champions of the Continent - A2_97: 1623306972
+      Mobile - Octopath Traveler Champions of the Continent - A2_98: 525865674
+      Mobile - Octopath Traveler Champions of the Continent - A2_99: -477515106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

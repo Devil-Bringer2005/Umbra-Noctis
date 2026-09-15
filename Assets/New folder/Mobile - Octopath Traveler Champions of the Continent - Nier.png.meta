@@ -1,0 +1,3295 @@
+fileFormatVersion: 2
+guid: 91acd4e3e964cae44af71e2550519296
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 682
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2842060efb8cc47a24ee82071978cd
+      internalID: -200500841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 682
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c9e8c99fc12bb4584fb18ec9dfff82
+      internalID: -1411617038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 682
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcfa3ffeffdf744cac3a3cf24a4683b
+      internalID: -796977555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 682
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aca93ea0697e240b2089b71eed4383
+      internalID: 599386969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 682
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a29ce66296c67240862c4a4457fcbee
+      internalID: -1842526110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 682
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1100661758d2de4690558e0c4dbfd83
+      internalID: -944953814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 682
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3abc6cbe5d8db4b95a956221d3668e
+      internalID: -363601020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 682
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580a520f351af0146b99b6d448255157
+      internalID: -810075352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 682
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ee67ca0f714fd44856755e2cfcc198
+      internalID: 914768963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 682
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f561f15c93cc2164491475388d01b6de
+      internalID: -1632921178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 638
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b03274ef46f694283209546a9b879b
+      internalID: 1271579939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 638
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37280dad2afe0ec4ba63f4a2680d80b7
+      internalID: -982532332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 639
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5382239bc60224e868601fc1d6a263
+      internalID: -1597085412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 639
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a326c98ac39f7429c3fadb180c6552
+      internalID: -1298435638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_14
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 638
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645424b2b09f9db40a1f461d7d9ee3da
+      internalID: 914541114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 639
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd529c7ce0dac6d48acd6a4bf9bb2672
+      internalID: 1160684917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 639
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5434a305b1f0ffe40b4bb30a5ca97727
+      internalID: 712652223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_17
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 638
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c4f7865f6bed541ae0187718135047
+      internalID: 1056770459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_18
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 639
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f782980c5e02c42418ee17cf41739b56
+      internalID: 461115783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 639
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15213ba389cfdc45930ac318654386b
+      internalID: -1170323754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 594
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102f476138e8fef47ba931208e5a246e
+      internalID: 1558329445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 595
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35c8f2b7f0a7464c878ca14d8238fa7
+      internalID: -2053026736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 595
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820f1052fdb6da541b86f6a7398584fe
+      internalID: -1643521919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 594
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c53a33c32189da4481263b3a856f9f2
+      internalID: 1435824600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 594
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f239cdd1bc2221c4a91d487f59f3bc33
+      internalID: 1527230463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 594
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee3dcc2bdc349b49b53bfb91e7593d8
+      internalID: 1955314840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 595
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cd67b13c3d5294387b0d17370025e7
+      internalID: -289709606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 595
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9acf168f418cb47905e2920d784941
+      internalID: 1644039179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_28
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 595
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05071a7e56ef6ec47a4108e703fe8466
+      internalID: 1828746734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_29
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 594
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42793e06179b19d4996cc9c0feff4385
+      internalID: -1004155401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 550
+        width: 15
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e908183a9596da24b9855a5b4254b835
+      internalID: 1090417676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 550
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c918c711f3edd418ab90ed211f0634
+      internalID: -624917643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 550
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d54334247ed7a47be384de30a6f0cb
+      internalID: -627738104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 550
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f37d0d856014a4c8172612d401ea27
+      internalID: -148613444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_34
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 550
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0772a5d098d6944947896af5024e7f
+      internalID: -2113620446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_35
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 551
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755d20f693037bc49988a89cba16b07e
+      internalID: -501492036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_36
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 550
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acde9b7ca53bda438583fcdd0bd7f59
+      internalID: -535143953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_37
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 550
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e61ce458a933664ba6a71d01388a351
+      internalID: -1112421762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_38
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 551
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4b1619ef2b87844bf3124751f79737
+      internalID: 2078637599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_39
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 550
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea377a78664fa64e9dd7ff46bc1d864
+      internalID: -1244340836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 506
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c62d777b2f60dc4496a8f21d68aeed2
+      internalID: -1484204040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_41
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 506
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dcecb2a4e30e44cb1408d9c320feec
+      internalID: -1451480509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_42
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 506
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c732299b1716a45a62bfb7a22d382b
+      internalID: -1551157800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 506
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa76d3f9ceb50d468f1f8bcff6c12e6
+      internalID: -489833841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_44
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 506
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a608331530e902a40bb314648e941ed2
+      internalID: -1304484783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_45
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 506
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0be3f45de9ce64f9daabb861d9410e
+      internalID: 1212798061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_46
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 506
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac32584763aee8248ae66d40c21d2e8f
+      internalID: -430774800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_47
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 506
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c38cc2da46fe284daa5a5f416fc0ee6
+      internalID: -779252508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 506
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dabc427b10aa0459f52b4fe14600ac
+      internalID: 1324603125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_49
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 506
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2f6e1b21a594841b4dccb4b640e43d
+      internalID: -830473196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 462
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3ffc67fc85d3943aea6f5a5616bb27
+      internalID: 898664109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 462
+        width: 34
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1117a112577524e98e45972463d23d
+      internalID: -1085300359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 462
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50680d1239d3c3046a5e79a4d577c52a
+      internalID: 1497916481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_53
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 462
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5768948521c8041a79f8ed16e01390
+      internalID: 457324610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_54
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 462
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb1d9d5ddf616c48b5726cbb17f4e94
+      internalID: 72937650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_55
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 462
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d0091afd1857e469571ff31eaa1279
+      internalID: -835637528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_56
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 462
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ce1730d466f87418924e5ff0fccf07
+      internalID: 645426964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 462
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79b221d0d877c444a801ced59fc9295
+      internalID: 2122928904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_58
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 462
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab478814316d1240a9cf383780af52e
+      internalID: -1873392350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_59
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 462
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf865eab683459647a106a22a0fde122
+      internalID: 1805988267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 419
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c88600f04839743a1e79fd1e607d61
+      internalID: 774499839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 418
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cc772926a87df499bc0d9bf99df235
+      internalID: -1673870857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 418
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef0f8fada736fc41854a0a71d8c9433
+      internalID: -2008929467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 418
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6575157c633612f40bfee83bdba0cd2f
+      internalID: -1346272987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_64
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 418
+        width: 18
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8645dd70622234fb16592ff96d4e55
+      internalID: 1687349976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_65
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 418
+        width: 18
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ea6cba2b3c0f4479d1314d53a3ee40
+      internalID: 328070870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_66
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 418
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d31eaeb0f18d34094c631116c51dae
+      internalID: 1782502452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_67
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 419
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e349d9c922c381548b2f5f38932355be
+      internalID: -1006811355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_68
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 426
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd25fa190e7b05e4490ce08cb0a86901
+      internalID: -734894036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_69
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 418
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33168fd28e614048ba8bbfe151e865e
+      internalID: 599696301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_70
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 374
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee41fbe2c23a04046801e040785a2ab0
+      internalID: 1971620707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_71
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 374
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a889d4115342c479768fdecdcae355
+      internalID: 782983499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_72
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 374
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e63572dd709c924c83fb22f9365b986
+      internalID: 2989977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_73
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 374
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3758fdc2fb8254ab4541406214a035
+      internalID: 281436974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_74
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 374
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b73ab4bbad7ea42a656dc3af7af539
+      internalID: -1051117408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_75
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 374
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1ef9f29aac09345835a32a440369b0
+      internalID: 763492757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_76
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 374
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e54944cf4e6e80479066dd08e3ef930
+      internalID: 1667063308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_77
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 374
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88db8e34aeb37e4bb4f878d9a0c2aef
+      internalID: 1284344824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_78
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 374
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a3106e5c3a4e742a5d8f6d2a861bf8
+      internalID: 1682873851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_79
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 374
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee782660268c7524eba1d270191a2fff
+      internalID: -1480440573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_80
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 330
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba4f0f35c93e4647937c354ae95c635
+      internalID: 1860389072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_81
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 331
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ada556b098bfe49a45ca286df319fb
+      internalID: -1881272957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_82
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 331
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d131cae86067f4b877013d5b54bfb5
+      internalID: -1867830617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_83
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 330
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55940fdf5c755674f9c6a7d12521c06d
+      internalID: 1417073677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_84
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 331
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d974829f5d55648a7cdf688a75a44a
+      internalID: 476907637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_85
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 331
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396a5915c347f474b967fa97bc4ff713
+      internalID: -19202161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_86
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 330
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32f37a9cec600043907ff50a7bb4edd
+      internalID: -1422764870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_87
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 331
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb99d2c68b574643a067cb511f03872
+      internalID: 913634399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_88
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 331
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766e9d0bc467e1c4dafa53e905bd053f
+      internalID: -432061122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_89
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 330
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b08dba2ebb149749888871802dc6bf5
+      internalID: 239401833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_90
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 287
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fb6e041229d98498a3105a57397312
+      internalID: 711885976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_91
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 287
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9a179291c55704f9aaffc5bb0c4568
+      internalID: -229461945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_92
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 286
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695ae5dbc27618241bfcf14f693d5d4a
+      internalID: 1731023209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 286
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4212fe7cbfcf2e2428559a85141c1b08
+      internalID: -195516884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_94
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 286
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9327f6fd92f01994da802c8d42686489
+      internalID: 332655385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_95
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 287
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e6515221cbf2946ad61cc479094f94
+      internalID: -1985415403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_96
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 287
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892e712b240224240ac3e9a6d8b13f95
+      internalID: 401369191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_97
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 287
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2275786669b0f2c45b90e5fb19d12c13
+      internalID: -704529180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_98
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 286
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7a654aa2c959247a8809cd940e5ffd
+      internalID: 1400210309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_99
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 286
+        width: 15
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ad001eec56d5041a06ff08e7e0c42a
+      internalID: 160451869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_100
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 242
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccd691ad8283cc488d966df9f874d2c
+      internalID: 1418928766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_101
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 242
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67ee451cf8eadd41a7d2a1934533f41
+      internalID: -728168109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_102
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 242
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecec65773ff00d409c564f7ef73802c
+      internalID: 1734045869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_103
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 242
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072b4ef6e3701b54cb376c15e87a24ee
+      internalID: -1178882420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_104
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 243
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d548064e333a2540b0d6eb456077cb2
+      internalID: -457910453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_105
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 242
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a8ffc78cbff9843bb7dd346b148a88
+      internalID: 2115467818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_106
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 242
+        width: 17
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c14187a48f5d2140a83aa96bbbb2fbe
+      internalID: 1634414636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_107
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 243
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b7badc768a51e4b8aca9db7bf304c6
+      internalID: -1589749962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_108
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 242
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c15036049944a94e900a22844c531fe
+      internalID: 33818481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_109
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 242
+        width: 17
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06a43a762e69644db3cafd0beab76d0
+      internalID: -721674818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_110
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 194
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aaa508508bfa94d942f7c94de33e1f
+      internalID: -1458644678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_111
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 194
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e50829e82a15c4e81084dca9c86f14
+      internalID: 867068355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_112
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 194
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f9a84957b01844ba21cc62be797206
+      internalID: -1829883905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_113
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 194
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a8f3dcc67c5544d8b9ffd45f5eec74
+      internalID: -1852863448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_114
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 194
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b140070f675bcb46a7669f3b2e162d8
+      internalID: -2037014515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_115
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 194
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5343ad48aae86ac4081191cd7fb87dfd
+      internalID: -1347316444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_116
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 194
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2405c6f7b91ac4c958a491047fca8e
+      internalID: 428149671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_117
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 194
+        width: 32
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834b6083d9beaff4584ea7df86bc6561
+      internalID: 966214620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_118
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 194
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03388d2c60701514696603a7ef46a4d4
+      internalID: -169267274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_119
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 194
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1239f3aeb2f59d54d8896eaf16523ba7
+      internalID: 1048284422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 150
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c85e3022d58c04dbf8bb0487666a4c
+      internalID: 977275994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_121
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 151
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f99a32e70761f6459f12d436d0dff90
+      internalID: 1562918040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_122
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 150
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01fad56fb6093e4e81d63eb4ce00c72
+      internalID: -820439390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_123
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 150
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7d36eaf88706246a87d043bab7e005
+      internalID: -991361195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_124
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 150
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf73e0de321c6446b3449b75c077dee
+      internalID: 1998529223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_125
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 150
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5987e557c8e0a944fae2be59019281d9
+      internalID: -920291122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_126
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 158
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aef93c45ac5e9242a82141850cfeb07
+      internalID: -705234420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_127
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 158
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b53e517b36f3341ae30aac6611895a
+      internalID: 758796511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_128
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 158
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef11c0a88324fb429735696164e7a0c
+      internalID: 1518536857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_129
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 158
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd42426c8360a094dbd8cab68e870867
+      internalID: 1111922957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_130
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 106
+        width: 54
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7367ef15a7d614cb24ed7e1e5004f4
+      internalID: -463103594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_131
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 106
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7d1eccf48459848b8e616d9e59896d
+      internalID: 312418677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_132
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 106
+        width: 50
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a17fbbc8bfbb7942b7aed0598a392c7
+      internalID: -1197849930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_133
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 106
+        width: 48
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f9afa5ffae8eb4dadb0e0f47a22cc1
+      internalID: -2084524891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_134
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 106
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bb84edca70b3840ba202fd56c58312
+      internalID: -1055900178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_135
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 62
+        width: 41
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87d9c7519a543048a18356a7c29789d
+      internalID: -483782511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_136
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 62
+        width: 41
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af5c49004b92f4418f0b8a9c30588e4
+      internalID: -1980490153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_137
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 62
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2aa42c7cb3f4c94e8cfd5929bf8f68b
+      internalID: -1414411505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_138
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 62
+        width: 55
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dcbf8d96c3afd40b4f4a9819d831f4
+      internalID: -944399825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_139
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 62
+        width: 52
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d91ec0633c5e5c42b9549ed036adeda
+      internalID: -1466652351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_140
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 18
+        width: 49
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a341689c0a0184cbd1fbd7f6de031b
+      internalID: 938620002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_141
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 48
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf79fad69a5d7044bd54fc74485f19f
+      internalID: -2027532503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_142
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 18
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab624f4328f777340b7edfc7a9b2c959
+      internalID: 833097498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Octopath Traveler Champions of the Continent - Nier_143
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 18
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fc64aa745159b4d8ff8b27d7d874cb
+      internalID: -1400910258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Octopath Traveler Champions of the Continent - Nier_0: -200500841
+      Mobile - Octopath Traveler Champions of the Continent - Nier_1: -1411617038
+      Mobile - Octopath Traveler Champions of the Continent - Nier_10: 1271579939
+      Mobile - Octopath Traveler Champions of the Continent - Nier_100: 1418928766
+      Mobile - Octopath Traveler Champions of the Continent - Nier_101: -728168109
+      Mobile - Octopath Traveler Champions of the Continent - Nier_102: 1734045869
+      Mobile - Octopath Traveler Champions of the Continent - Nier_103: -1178882420
+      Mobile - Octopath Traveler Champions of the Continent - Nier_104: -457910453
+      Mobile - Octopath Traveler Champions of the Continent - Nier_105: 2115467818
+      Mobile - Octopath Traveler Champions of the Continent - Nier_106: 1634414636
+      Mobile - Octopath Traveler Champions of the Continent - Nier_107: -1589749962
+      Mobile - Octopath Traveler Champions of the Continent - Nier_108: 33818481
+      Mobile - Octopath Traveler Champions of the Continent - Nier_109: -721674818
+      Mobile - Octopath Traveler Champions of the Continent - Nier_11: -982532332
+      Mobile - Octopath Traveler Champions of the Continent - Nier_110: -1458644678
+      Mobile - Octopath Traveler Champions of the Continent - Nier_111: 867068355
+      Mobile - Octopath Traveler Champions of the Continent - Nier_112: -1829883905
+      Mobile - Octopath Traveler Champions of the Continent - Nier_113: -1852863448
+      Mobile - Octopath Traveler Champions of the Continent - Nier_114: -2037014515
+      Mobile - Octopath Traveler Champions of the Continent - Nier_115: -1347316444
+      Mobile - Octopath Traveler Champions of the Continent - Nier_116: 428149671
+      Mobile - Octopath Traveler Champions of the Continent - Nier_117: 966214620
+      Mobile - Octopath Traveler Champions of the Continent - Nier_118: -169267274
+      Mobile - Octopath Traveler Champions of the Continent - Nier_119: 1048284422
+      Mobile - Octopath Traveler Champions of the Continent - Nier_12: -1597085412
+      Mobile - Octopath Traveler Champions of the Continent - Nier_120: 977275994
+      Mobile - Octopath Traveler Champions of the Continent - Nier_121: 1562918040
+      Mobile - Octopath Traveler Champions of the Continent - Nier_122: -820439390
+      Mobile - Octopath Traveler Champions of the Continent - Nier_123: -991361195
+      Mobile - Octopath Traveler Champions of the Continent - Nier_124: 1998529223
+      Mobile - Octopath Traveler Champions of the Continent - Nier_125: -920291122
+      Mobile - Octopath Traveler Champions of the Continent - Nier_126: -705234420
+      Mobile - Octopath Traveler Champions of the Continent - Nier_127: 758796511
+      Mobile - Octopath Traveler Champions of the Continent - Nier_128: 1518536857
+      Mobile - Octopath Traveler Champions of the Continent - Nier_129: 1111922957
+      Mobile - Octopath Traveler Champions of the Continent - Nier_13: -1298435638
+      Mobile - Octopath Traveler Champions of the Continent - Nier_130: -463103594
+      Mobile - Octopath Traveler Champions of the Continent - Nier_131: 312418677
+      Mobile - Octopath Traveler Champions of the Continent - Nier_132: -1197849930
+      Mobile - Octopath Traveler Champions of the Continent - Nier_133: -2084524891
+      Mobile - Octopath Traveler Champions of the Continent - Nier_134: -1055900178
+      Mobile - Octopath Traveler Champions of the Continent - Nier_135: -483782511
+      Mobile - Octopath Traveler Champions of the Continent - Nier_136: -1980490153
+      Mobile - Octopath Traveler Champions of the Continent - Nier_137: -1414411505
+      Mobile - Octopath Traveler Champions of the Continent - Nier_138: -944399825
+      Mobile - Octopath Traveler Champions of the Continent - Nier_139: -1466652351
+      Mobile - Octopath Traveler Champions of the Continent - Nier_14: 914541114
+      Mobile - Octopath Traveler Champions of the Continent - Nier_140: 938620002
+      Mobile - Octopath Traveler Champions of the Continent - Nier_141: -2027532503
+      Mobile - Octopath Traveler Champions of the Continent - Nier_142: 833097498
+      Mobile - Octopath Traveler Champions of the Continent - Nier_143: -1400910258
+      Mobile - Octopath Traveler Champions of the Continent - Nier_15: 1160684917
+      Mobile - Octopath Traveler Champions of the Continent - Nier_16: 712652223
+      Mobile - Octopath Traveler Champions of the Continent - Nier_17: 1056770459
+      Mobile - Octopath Traveler Champions of the Continent - Nier_18: 461115783
+      Mobile - Octopath Traveler Champions of the Continent - Nier_19: -1170323754
+      Mobile - Octopath Traveler Champions of the Continent - Nier_2: -796977555
+      Mobile - Octopath Traveler Champions of the Continent - Nier_20: 1558329445
+      Mobile - Octopath Traveler Champions of the Continent - Nier_21: -2053026736
+      Mobile - Octopath Traveler Champions of the Continent - Nier_22: -1643521919
+      Mobile - Octopath Traveler Champions of the Continent - Nier_23: 1435824600
+      Mobile - Octopath Traveler Champions of the Continent - Nier_24: 1527230463
+      Mobile - Octopath Traveler Champions of the Continent - Nier_25: 1955314840
+      Mobile - Octopath Traveler Champions of the Continent - Nier_26: -289709606
+      Mobile - Octopath Traveler Champions of the Continent - Nier_27: 1644039179
+      Mobile - Octopath Traveler Champions of the Continent - Nier_28: 1828746734
+      Mobile - Octopath Traveler Champions of the Continent - Nier_29: -1004155401
+      Mobile - Octopath Traveler Champions of the Continent - Nier_3: 599386969
+      Mobile - Octopath Traveler Champions of the Continent - Nier_30: 1090417676
+      Mobile - Octopath Traveler Champions of the Continent - Nier_31: -624917643
+      Mobile - Octopath Traveler Champions of the Continent - Nier_32: -627738104
+      Mobile - Octopath Traveler Champions of the Continent - Nier_33: -148613444
+      Mobile - Octopath Traveler Champions of the Continent - Nier_34: -2113620446
+      Mobile - Octopath Traveler Champions of the Continent - Nier_35: -501492036
+      Mobile - Octopath Traveler Champions of the Continent - Nier_36: -535143953
+      Mobile - Octopath Traveler Champions of the Continent - Nier_37: -1112421762
+      Mobile - Octopath Traveler Champions of the Continent - Nier_38: 2078637599
+      Mobile - Octopath Traveler Champions of the Continent - Nier_39: -1244340836
+      Mobile - Octopath Traveler Champions of the Continent - Nier_4: -1842526110
+      Mobile - Octopath Traveler Champions of the Continent - Nier_40: -1484204040
+      Mobile - Octopath Traveler Champions of the Continent - Nier_41: -1451480509
+      Mobile - Octopath Traveler Champions of the Continent - Nier_42: -1551157800
+      Mobile - Octopath Traveler Champions of the Continent - Nier_43: -489833841
+      Mobile - Octopath Traveler Champions of the Continent - Nier_44: -1304484783
+      Mobile - Octopath Traveler Champions of the Continent - Nier_45: 1212798061
+      Mobile - Octopath Traveler Champions of the Continent - Nier_46: -430774800
+      Mobile - Octopath Traveler Champions of the Continent - Nier_47: -779252508
+      Mobile - Octopath Traveler Champions of the Continent - Nier_48: 1324603125
+      Mobile - Octopath Traveler Champions of the Continent - Nier_49: -830473196
+      Mobile - Octopath Traveler Champions of the Continent - Nier_5: -944953814
+      Mobile - Octopath Traveler Champions of the Continent - Nier_50: 898664109
+      Mobile - Octopath Traveler Champions of the Continent - Nier_51: -1085300359
+      Mobile - Octopath Traveler Champions of the Continent - Nier_52: 1497916481
+      Mobile - Octopath Traveler Champions of the Continent - Nier_53: 457324610
+      Mobile - Octopath Traveler Champions of the Continent - Nier_54: 72937650
+      Mobile - Octopath Traveler Champions of the Continent - Nier_55: -835637528
+      Mobile - Octopath Traveler Champions of the Continent - Nier_56: 645426964
+      Mobile - Octopath Traveler Champions of the Continent - Nier_57: 2122928904
+      Mobile - Octopath Traveler Champions of the Continent - Nier_58: -1873392350
+      Mobile - Octopath Traveler Champions of the Continent - Nier_59: 1805988267
+      Mobile - Octopath Traveler Champions of the Continent - Nier_6: -363601020
+      Mobile - Octopath Traveler Champions of the Continent - Nier_60: 774499839
+      Mobile - Octopath Traveler Champions of the Continent - Nier_61: -1673870857
+      Mobile - Octopath Traveler Champions of the Continent - Nier_62: -2008929467
+      Mobile - Octopath Traveler Champions of the Continent - Nier_63: -1346272987
+      Mobile - Octopath Traveler Champions of the Continent - Nier_64: 1687349976
+      Mobile - Octopath Traveler Champions of the Continent - Nier_65: 328070870
+      Mobile - Octopath Traveler Champions of the Continent - Nier_66: 1782502452
+      Mobile - Octopath Traveler Champions of the Continent - Nier_67: -1006811355
+      Mobile - Octopath Traveler Champions of the Continent - Nier_68: -734894036
+      Mobile - Octopath Traveler Champions of the Continent - Nier_69: 599696301
+      Mobile - Octopath Traveler Champions of the Continent - Nier_7: -810075352
+      Mobile - Octopath Traveler Champions of the Continent - Nier_70: 1971620707
+      Mobile - Octopath Traveler Champions of the Continent - Nier_71: 782983499
+      Mobile - Octopath Traveler Champions of the Continent - Nier_72: 2989977
+      Mobile - Octopath Traveler Champions of the Continent - Nier_73: 281436974
+      Mobile - Octopath Traveler Champions of the Continent - Nier_74: -1051117408
+      Mobile - Octopath Traveler Champions of the Continent - Nier_75: 763492757
+      Mobile - Octopath Traveler Champions of the Continent - Nier_76: 1667063308
+      Mobile - Octopath Traveler Champions of the Continent - Nier_77: 1284344824
+      Mobile - Octopath Traveler Champions of the Continent - Nier_78: 1682873851
+      Mobile - Octopath Traveler Champions of the Continent - Nier_79: -1480440573
+      Mobile - Octopath Traveler Champions of the Continent - Nier_8: 914768963
+      Mobile - Octopath Traveler Champions of the Continent - Nier_80: 1860389072
+      Mobile - Octopath Traveler Champions of the Continent - Nier_81: -1881272957
+      Mobile - Octopath Traveler Champions of the Continent - Nier_82: -1867830617
+      Mobile - Octopath Traveler Champions of the Continent - Nier_83: 1417073677
+      Mobile - Octopath Traveler Champions of the Continent - Nier_84: 476907637
+      Mobile - Octopath Traveler Champions of the Continent - Nier_85: -19202161
+      Mobile - Octopath Traveler Champions of the Continent - Nier_86: -1422764870
+      Mobile - Octopath Traveler Champions of the Continent - Nier_87: 913634399
+      Mobile - Octopath Traveler Champions of the Continent - Nier_88: -432061122
+      Mobile - Octopath Traveler Champions of the Continent - Nier_89: 239401833
+      Mobile - Octopath Traveler Champions of the Continent - Nier_9: -1632921178
+      Mobile - Octopath Traveler Champions of the Continent - Nier_90: 711885976
+      Mobile - Octopath Traveler Champions of the Continent - Nier_91: -229461945
+      Mobile - Octopath Traveler Champions of the Continent - Nier_92: 1731023209
+      Mobile - Octopath Traveler Champions of the Continent - Nier_93: -195516884
+      Mobile - Octopath Traveler Champions of the Continent - Nier_94: 332655385
+      Mobile - Octopath Traveler Champions of the Continent - Nier_95: -1985415403
+      Mobile - Octopath Traveler Champions of the Continent - Nier_96: 401369191
+      Mobile - Octopath Traveler Champions of the Continent - Nier_97: -704529180
+      Mobile - Octopath Traveler Champions of the Continent - Nier_98: 1400210309
+      Mobile - Octopath Traveler Champions of the Continent - Nier_99: 160451869
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
